@@ -5,9 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "node ./server-api.cjs",
-    "start": "node ./server-api.cjs",
-    "build": "vite build",
-    "preview": "vite preview"
+    "start": "node ./server-api.cjs"
   },
   "dependencies": {
     "concurrently": "^9.1.2",

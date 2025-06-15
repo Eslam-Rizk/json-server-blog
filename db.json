@@ -1,0 +1,272 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@example.com",
+      "password": "$2a$10$C..8IJ6ognbNIgJK3aAxbuVh8xhgjqCYB7wdSUJo4q6N7z8FirI/e"
+    }
+  ],
+  "posts": [
+    {
+      "id": "post-1",
+      "title": "Understanding Async/Await in JavaScript",
+      "content": "Async/Await simplifies working with asynchronous code in JavaScript. This post explains how to use it effectively.",
+      "author": "CodeMaster",
+      "date": "2025-06-01T10:00:00.000Z",
+      "userId": 1,
+      "imageUrl": "https://images.unsplash.com/photo-1506765515384-028b60a970df?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": "post-2",
+      "title": "Introduction to TypeScript",
+      "content": "TypeScript is a superset of JavaScript that adds static typing. Learn how it can improve your codebase.",
+      "author": "TypeGuru",
+      "date": "2025-05-25T14:30:00.000Z",
+      "userId": 2,
+      "imageUrl": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": "post-3",
+      "title": "Mastering CSS Grid",
+      "content": "CSS Grid is a powerful layout system. This post covers the basics and advanced techniques.",
+      "author": "StyleMaster",
+      "date": "2025-05-20T09:00:00.000Z",
+      "userId": 3,
+      "imageUrl": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": "post-4",
+      "title": "Building RESTful APIs with Node.js",
+      "content": "Learn how to create robust RESTful APIs using Node.js and Express.",
+      "author": "APIWizard",
+      "date": "2025-05-15T12:00:00.000Z",
+      "userId": 4,
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": "post-5",
+      "title": "React vs Vue: A Comparison",
+      "content": "React and Vue are two popular front-end frameworks. This post compares their features and use cases.",
+      "author": "FrameworkFan",
+      "date": "2025-05-10T08:00:00.000Z",
+      "userId": 5,
+      "imageUrl": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": "post-6",
+      "title": "Exploring Python's Flask Framework",
+      "content": "Flask is a lightweight web framework for Python. Learn how to build web applications with it.",
+      "author": "PyDev",
+      "date": "2025-05-05T15:00:00.000Z",
+      "userId": 6,
+      "imageUrl": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": "post-7",
+      "title": "Getting Started with Docker",
+      "content": "Docker simplifies application deployment. This post introduces Docker and its core concepts.",
+      "author": "ContainerGuru",
+      "date": "2025-05-01T11:00:00.000Z",
+      "userId": 7,
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": "post-8",
+      "title": "Understanding Kubernetes",
+      "content": "Kubernetes is a container orchestration platform. Learn how it manages containerized applications.",
+      "author": "CloudMaster",
+      "date": "2025-04-25T13:00:00.000Z",
+      "userId": 8,
+      "imageUrl": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": "post-9",
+      "title": "Introduction to Machine Learning",
+      "content": "Machine learning is transforming industries. This post covers the basics and popular algorithms.",
+      "author": "MLExpert",
+      "date": "2025-04-20T10:00:00.000Z",
+      "userId": 9,
+      "imageUrl": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": "post-11",
+      "title": "Advanced Git Techniques",
+      "content": "Learn advanced Git techniques to manage your repositories effectively.",
+      "author": "VersionControlPro",
+      "date": "2025-04-10T09:00:00.000Z",
+      "userId": 11,
+      "imageUrl": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": "post-12",
+      "title": "Introduction to GraphQL",
+      "content": "GraphQL is a query language for APIs. Learn how it differs from REST.",
+      "author": "APIExplorer",
+      "date": "2025-04-05T12:00:00.000Z",
+      "userId": 12,
+      "imageUrl": "https://images.unsplash.com/photo-1506765515384-028b60a970df?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": "post-13",
+      "title": "Securing Web Applications",
+      "content": "Learn best practices for securing your web applications against common threats.",
+      "author": "SecurityExpert",
+      "date": "2025-04-01T15:00:00.000Z",
+      "userId": 13,
+      "imageUrl": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": "post-14",
+      "title": "Understanding WebSockets",
+      "content": "WebSockets enable real-time communication. Learn how to implement them in your applications.",
+      "author": "RealTimeDev",
+      "date": "2025-03-25T10:00:00.000Z",
+      "userId": 14,
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": "post-15",
+      "title": "Building Scalable Applications",
+      "content": "Scalability is key for modern applications. Learn strategies to scale effectively.",
+      "author": "ScaleMaster",
+      "date": "2025-03-20T14:00:00.000Z",
+      "userId": 15,
+      "imageUrl": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": "post-16",
+      "title": "Introduction to DevOps",
+      "content": "DevOps bridges the gap between development and operations. Learn its core principles.",
+      "author": "OpsGuru",
+      "date": "2025-03-15T11:00:00.000Z",
+      "userId": 16,
+      "imageUrl": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": "post-17",
+      "title": "Exploring Progressive Web Apps",
+      "content": "Progressive Web Apps combine the best of web and mobile apps. Learn how to build one.",
+      "author": "WebAppWizard",
+      "date": "2025-03-10T08:00:00.000Z",
+      "userId": 17,
+      "imageUrl": "https://images.unsplash.com/photo-1506765515384-028b60a970df?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": "post-18",
+      "title": "Understanding Microservices Architecture",
+      "content": "Microservices architecture is a design pattern for building scalable applications. Learn its benefits.",
+      "author": "ArchMaster",
+      "date": "2025-03-05T13:00:00.000Z",
+      "userId": 18,
+      "imageUrl": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": "post-19",
+      "title": "Introduction to WebAssembly",
+      "content": "WebAssembly enables high-performance applications on the web. Learn how to use it.",
+      "author": "WasmDev",
+      "date": "2025-03-01T09:00:00.000Z",
+      "userId": 19,
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": "post-20",
+      "title": "Building Serverless Applications",
+      "content": "Serverless architecture simplifies application deployment. Learn how to build serverless apps.",
+      "author": "CloudDev",
+      "date": "2025-02-25T12:00:00.000Z",
+      "userId": 20,
+      "imageUrl": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": "post-21",
+      "title": "Introduction to Blockchain",
+      "content": "Blockchain is a distributed ledger technology. Learn its basics and applications.",
+      "author": "CryptoGuru",
+      "date": "2025-02-20T10:00:00.000Z",
+      "userId": 21,
+      "imageUrl": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": "post-22",
+      "title": "Mastering Responsive Design",
+      "content": "Responsive design ensures your website looks great on all devices. Learn the techniques.",
+      "author": "DesignPro",
+      "date": "2025-02-15T14:00:00.000Z",
+      "userId": 22,
+      "imageUrl": "https://images.unsplash.com/photo-1506765515384-028b60a970df?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": "post-23",
+      "title": "Exploring Artificial Intelligence",
+      "content": "Artificial Intelligence is transforming industries. Learn its basics and applications.",
+      "author": "AIExpert",
+      "date": "2025-02-10T15:00:00.000Z",
+      "userId": 23,
+      "imageUrl": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": "post-24",
+      "title": "Understanding Event-Driven Architecture",
+      "content": "Event-driven architecture is a design pattern for building scalable systems. Learn its principles.",
+      "author": "EventMaster",
+      "date": "2025-02-05T11:00:00.000Z",
+      "userId": 24,
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": "post-25",
+      "title": "Building Real-Time Applications",
+      "content": "Real-time applications provide instant feedback. Learn how to build them effectively.",
+      "author": "RealTimePro",
+      "date": "2025-02-01T08:00:00.000Z",
+      "userId": 25,
+      "imageUrl": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": "post-26",
+      "title": "Introduction to Data Science",
+      "content": "Data Science is a field that combines statistics and programming. Learn its basics.",
+      "author": "DataGuru",
+      "date": "2025-01-25T13:00:00.000Z",
+      "userId": 26,
+      "imageUrl": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": "post-27",
+      "title": "Exploring Cloud Computing",
+      "content": "Cloud computing provides scalable resources. Learn its core concepts and benefits.",
+      "author": "CloudExpert",
+      "date": "2025-01-20T09:00:00.000Z",
+      "userId": 27,
+      "imageUrl": "https://images.unsplash.com/photo-1506765515384-028b60a970df?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": "post-28",
+      "title": "Understanding Functional Programming",
+      "content": "Functional programming is a paradigm that treats computation as the evaluation of functions. Learn its principles.",
+      "author": "FuncDev",
+      "date": "2025-01-15T12:00:00.000Z",
+      "userId": 28,
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": "post-29",
+      "title": "Building Cross-Platform Apps",
+      "content": "Cross-platform development allows you to target multiple platforms with a single codebase. Learn how to get started.",
+      "author": "CrossDev",
+      "date": "2025-01-10T10:00:00.000Z",
+      "userId": 29,
+      "imageUrl": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": "post-30",
+      "title": "Introduction to Natural Language Processing",
+      "content": "Natural Language Processing enables machines to understand human language. Learn its basics and applications.",
+      "author": "NLPExpert",
+      "date": "2025-01-05T14:00:00.000Z",
+      "userId": 30,
+      "imageUrl": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80"
+    }
+  ]
+}

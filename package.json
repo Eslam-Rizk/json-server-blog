@@ -1,0 +1,23 @@
+{
+  "name": "minimal-admin-blog",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node ./server-api.cjs",
+    "start": "node ./server-api.cjs",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "concurrently": "^9.1.2",
+    "jwt-decode": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "express": "^4",
+    "json-server": "^0.17.4",
+    "json-server-auth": "^2.1.0",
+    "typescript": "~5.7.2"
+  }
+}
